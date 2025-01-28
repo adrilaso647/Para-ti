@@ -36,9 +36,9 @@ const music_list = [
   },
   {
     img: "rapunzel2.png",
-    name: "Por fin ya veo la luz",
+    name: "Cuando mi vida va a comenzar",
     artist: "Rapunzel",
-    music: "Por fin ya veo la luz.mp3",
+    music: "Cuando mi vida va a comenzar.mp3",
   },
   {
     img: "rapunzel3.png",
