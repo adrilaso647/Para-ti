@@ -29,22 +29,22 @@ let updateTimer;
 
 const music_list = [
   {
-    img: "img/rep/rapunzel1.jpg",
+    img: "rapunzel1.jpg",
     name: "Por fin ya veo la luz",
     artist: "Rapunzel",
-    music: "music/Por fin ya veo la luz.mp3",
+    music: "Por fin ya veo la luz.mp3",
   },
   {
-    img: "img/rep/rapunzel2.png",
+    img: "rapunzel2.png",
     name: "Por fin ya veo la luz",
     artist: "Rapunzel",
-    music: "music/Por fin ya veo la luz.mp3",
+    music: "Por fin ya veo la luz.mp3",
   },
   {
-    img: "img/rep/rapunzel3.png",
+    img: "rapunzel3.png",
     name: "Canción del encantamiento",
     artist: "Rapunzel",
-    music: "music/Canción del encantamiento.mp3",
+    music: "Canción del encantamiento.mp3",
   },
 ];
 
